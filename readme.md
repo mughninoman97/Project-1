@@ -2,20 +2,20 @@
 
 This is my first project of Web Development. I have learnt HTML and positioning concept of CSS. 
 
-![Project1]( fullsize1.png "proj1 image")
+![Project1]( /screenshots/fullsize1.png "proj1 image")
 
-![Project1]( nav.PNG "proj1 image")
+![Project1]( /screenshots/nav.PNG "proj1 image")
 
-![Project1]( body.PNG "proj1 image")
+![Project1]( /screenshots/body.PNG "proj1 image")
 
-![Project1]( soc.PNG "proj1 image")
+![Project1]( /screenshots/soc.PNG "proj1 image")
 
 
 
 ## Technologies Used
 - HTML
 - CSS
-![Mascot](html.jpg "mascot logo")
+![Mascot](/screenshots/html.jpg "mascot logo")
 
 
 ## What I leaned
