@@ -2,6 +2,9 @@
 
 This is my first project of Web Development. I have learnt HTML and positioning concept of CSS. 
 
+![Project1]( fullsize1.png "proj1 image")
+![Project1]( p1.png "proj1 image")
+
 ## Technologies Used
 - HTML
 - CSS
