@@ -4,11 +4,11 @@ This is my first project of Web Development. I have learnt HTML and positioning 
 
 ![Project1]( fullsize1.png "proj1 image")
 
-![Project1]( nav.png "proj1 image")
+![Project1]( nav.PNG "proj1 image")
 
-![Project1]( body.png "proj1 image")
+![Project1]( body.PNG "proj1 image")
 
-![Project1]( soc.png "proj1 image")
+![Project1]( soc.PNG "proj1 image")
 
 
 
