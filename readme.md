@@ -2,6 +2,8 @@
 
 This is my first project of Web Development. I have learnt HTML and positioning concept of CSS. 
 
+> [Click here to Check my project](https://project-1-by-noman.netlify.app/)
+
 ![Project1]( /screenshots/fullsize1.png "proj1 image")
 
 ![Project1]( /screenshots/nav.PNG "proj1 image")
